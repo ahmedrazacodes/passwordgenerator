@@ -1,1 +1,1 @@
-https://webdeveloperahmed92.github.io/passwordgenerator/
+https://ahmedrazacodes.github.io/passwordgenerator/
